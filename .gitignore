@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+report.md
+report.html
+report.json
+offline_report.html
